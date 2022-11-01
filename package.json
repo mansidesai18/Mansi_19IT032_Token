@@ -1,0 +1,22 @@
+{
+    "name": "mansi19IT032TOKENSALE",
+    "version": "1.0.0",
+    "description": "mansi19IT032 Token Sale ICO",
+    "main": "truffle.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "Gregory",
+    "license": "ISC",
+    "dependencies": {
+        "@truffle/hdwallet-provider": "^2.0.13",
+        "dotenv": "^16.0.3",
+        "lite-server": "^2.6.1"
+    },
+    "devDependencies": {
+        "truffle-hdwallet-provider": "^1.0.6"
+    }
+}
